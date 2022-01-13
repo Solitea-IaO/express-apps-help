@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Node Name="" DisplayName="Help" Page="index.html">
+  <Node Name="" DisplayName="Getting Started" Page="SetUp_GettingStartedWithLoansExpress.html">
+    <Node Name="" DisplayName="OneCore Setup" Page="SetUp_OneCore.html"/>
+    <Node Name="" DisplayName="Posting Setup" Page="SetUp_Posting.html"/>   
+  </Node> 
+</Node>

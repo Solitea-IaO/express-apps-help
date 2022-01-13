@@ -1,8 +1,8 @@
 - name: Express Apps
-  tocHref: /expressapp/
-  topicHref: /expressapp/index
+  tocHref: /express-app/
+  topicHref: /express-app/index
   items:
   - name: Loans Express
-    tocHref: /expressapp/loans-express/
-    topicHref: /expressapp/loans-express/index
+    tocHref: /express-app/loans-express/
+    topicHref: /expres-sapp/loans-express/index
     

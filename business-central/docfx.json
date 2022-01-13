@@ -46,7 +46,7 @@
         "loans-express"],
       "uhfHeaderId": "MSDocsHeader-ExpressApps",
       "titleSuffix": "Express Apps",
-      "search.app": "expressapps",
+      "search.app": "express-apps",
       "search.audienceType": "enduser, admin",
       "breadcrumb_path": "/express-apps/loans-express/breadcrumb/toc.json",
       "ms.service": "express-apps-loans-express",
@@ -59,7 +59,7 @@
       }
     },
     "template": [],
-    "dest": "d365businesscentral",
+    "dest": "express-apps",
     "markdownEngineName": "markdig"
   }
 }
