@@ -2,7 +2,7 @@
   "docsets_to_publish": [
     {
       "docset_name": "express-apps-help",
-      "build_source_folder": "business-central",
+      "build_source_folder": "express-apps",
       "build_output_subfolder": "express-apps",
       "locale": "en-us",
       "monikers": [],
