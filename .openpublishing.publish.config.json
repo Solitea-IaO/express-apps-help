@@ -1,9 +1,9 @@
 {
   "docsets_to_publish": [
     {
-      "docset_name": "d365businesscentral",
+      "docset_name": "express-apps-help",
       "build_source_folder": "business-central",
-      "build_output_subfolder": "d365businesscentral",
+      "build_output_subfolder": "express-apps",
       "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [],
@@ -18,14 +18,12 @@
     }
   ],
   "notification_subscribers": [
-    "edupont@microsoft.com",
-    "solsen@microsoft.com"
+   
   ],
   "sync_notification_subscribers": [
-    "buckley.guderian@microsoft.com"
   ],
   "branches_to_filter": [],
-  "git_repository_url_open_to_public_contributors": "https://github.com/MicrosoftDocs/dynamics365smb-docs",
+  "git_repository_url_open_to_public_contributors": "https://github.com/Solitea-IaO/express-apps-help",
   "git_repository_branch_open_to_public_contributors": "main",
   "skip_source_output_uploading": false,
   "need_preview_pull_request": false,
