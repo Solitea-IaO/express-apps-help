@@ -1,9 +1,3 @@
 {
-    "redirections": [
-        {
-            "source_path": "General_WelcomeToLoansExpress.md",
-            "redirect_url": "/express-apps/loans-express/welcome",
-            "redirect_document_id": true
-        }
-    ]
+   
 }
