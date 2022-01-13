@@ -96,4 +96,4 @@ __5) Withdrawal Slip__
 
 For posting drawing of the Loan, the Credit memo feature is used. It must be filled "General Journal Template", "General Journal Batch" and "Temp Receivable Account" as G/L account for clearing.
 
- __[Back to Getting Started](1_GettingStarted.md)__ 
+ __[Back to Getting Started](SetUp_GettingStartedWithLoansExpress.md)__ 

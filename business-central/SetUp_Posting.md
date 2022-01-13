@@ -34,7 +34,7 @@ Posting contract repayment from 1.11.2022:
 ![Posting Example](Pictures/SetUp_PostingExample4.png "Posting Example")
 
 
- __[Back](1_GettingStarted.md)__ 
+ __[Back](SetUp_GettingStartedWithLoansExpress.md)__ 
 
 
 
